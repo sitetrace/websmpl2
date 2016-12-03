@@ -105,7 +105,7 @@
                 "showTitle": true,
                 "title": "Slide 2",
                 "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "SiteTrace is based on &nbsp;most powerful mobile first framework.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"websampl2.html\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -189,7 +189,7 @@
           "headerAlign": "left",
           "title": "DRAG AND DROP WEBSITE BUILDER",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "<p>Make your own website in a few clicks! SiteTrace helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"websampl2.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -242,7 +242,7 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and SiteTrace has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"websampl2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -262,7 +262,7 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and SiteTrace makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"websampl2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -282,7 +282,7 @@
             }
           },
           "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and SiteTrace makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"websampl2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -302,7 +302,7 @@
             }
           },
           "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br>",
+          "caption4": "SiteTrace gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"websampl2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
