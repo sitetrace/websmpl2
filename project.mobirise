@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-sitetrace-128x128-22.png",
@@ -543,6 +543,26 @@
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>CONTACTS</strong><br>\nEmail: info@sitetrace.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 SiteTrace. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>"
         }
       ]
     }
